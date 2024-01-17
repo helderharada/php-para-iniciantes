@@ -4,7 +4,7 @@
 $char = 'a';
 
 // STRING = múltiplos caracteres
-$string = 'Felipe 😀';
+$string = 'HelderHarada 😀';
 
 echo $char;
 echo "\n";
