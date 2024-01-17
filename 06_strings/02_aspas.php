@@ -1,12 +1,12 @@
 <?php
 
 // Simples
-$a = 'Felipe\n';
+$a = 'HelderHarada\n';
 
 echo $a;
 echo "\n";
 
 // Duplas
-$b = "Felipe\n";
+$b = "HelderHarada\n";
 
 echo $b;
