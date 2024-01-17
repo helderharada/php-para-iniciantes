@@ -1,17 +1,17 @@
 <?php
 
-echo strtoupper('felipe') . "\n";
+echo strtoupper('Helder') . "\n";
 
-echo strtolower('FELIPE') . "\n";
+echo strtolower('HELDER') . "\n";
 
-echo trim(' Felipe ') . "\n";
+echo trim(' Helder ') . "\n";
 
-echo ltrim(' Felipe ') . "\n";
+echo ltrim(' Helder ') . "\n";
 
-echo rtrim(' Felipe ') . "\n";
+echo rtrim(' Helder ') . "\n";
 
 echo 'R$ ' . number_format(1000000, 2, ',', '.') . "\n";
 
 echo str_replace('p', '', 'Oplá, psepjpa pbpem vpinpdpo.') . "\n";
 
-echo strlen('Felipe Renan Vieira') . "\n";
+echo strlen('Helder Renan Vieira') . "\n";
