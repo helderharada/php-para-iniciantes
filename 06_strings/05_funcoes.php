@@ -14,4 +14,4 @@ echo 'R$ ' . number_format(1000000, 2, ',', '.') . "\n";
 
 echo str_replace('p', '', 'Oplá, psepjpa pbpem vpinpdpo.') . "\n";
 
-echo strlen('Helder Renan Vieira') . "\n";
+echo strlen('Helder Harada') . "\n";
